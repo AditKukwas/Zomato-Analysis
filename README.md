@@ -33,5 +33,28 @@ Data blending to combine data from different tables Calculated fields to perform
 
 Here are the images showcasing the dashboards I have created.
 
-**Excel**
+**Excel:**
+
 ![Excel](https://github.com/AditKukwas/Zomato-Analysis/assets/138763699/f2779d8d-afc5-4251-8951-3eda66355460)
+
+**Tableau:**
+
+Dashboard 1
+
+![Tableau 1](https://github.com/AditKukwas/Zomato-Analysis/assets/138763699/871b3110-39a9-4db2-b638-6bec6bb13c7f)
+
+Dashboard 2
+
+![Tableau 2](https://github.com/AditKukwas/Zomato-Analysis/assets/138763699/0e9a52ca-1637-4e39-a5da-19d9c1aa5b89)
+
+**Power BI:**
+
+Dashboard 1
+
+![BI 1](https://github.com/AditKukwas/Zomato-Analysis/assets/138763699/def053d3-9b83-49ba-9cb0-2c7250947f2a)
+
+Dashboadr 2
+
+![BI 2](https://github.com/AditKukwas/Zomato-Analysis/assets/138763699/9851c796-8fa5-4e18-97d4-f14b833f1380)
+
+
