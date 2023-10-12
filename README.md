@@ -53,7 +53,7 @@ Dashboard 1
 
 ![BI 1](https://github.com/AditKukwas/Zomato-Analysis/assets/138763699/def053d3-9b83-49ba-9cb0-2c7250947f2a)
 
-Dashboadr 2
+Dashboad 2
 
 ![BI 2](https://github.com/AditKukwas/Zomato-Analysis/assets/138763699/9851c796-8fa5-4e18-97d4-f14b833f1380)
 
