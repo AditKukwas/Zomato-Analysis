@@ -2,7 +2,7 @@
 
 This project involved analyzing Zomato restaurant data using advanced Excel functions and SQL queries, and creating interactive dashboards using Excel, Power BI and Tableau. 
 
-The objectives of the project were:
+**The objectives of the project were:**
 1. Building a Calendar Table using the Column Datekey and adding columns such as Year, Monthno, Monthfullname, Quarter(Q1,Q2,Q3,Q4), YearMonth ( YYYY-MMM), Weekdayno, Weekday name, Financial Month ( April = FM1, May= FM2  …. March = FM12) and Financial Quarter ( Quarters based on Financial Month FQ-1 . FQ-2..).
 2. Finding the Numbers of Resturants based on City and Country.
 3. Finding numbers of resturants opening based on Year , Quarter , Month
