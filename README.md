@@ -31,14 +31,6 @@ Tableau In addition to Power BI, Tableau was also used to create interactive das
 
 Data blending to combine data from different tables Calculated fields to perform calculations on the data Dimensions and measures to organize and analyze the data Visualizations such as maps, charts, and tables to display the data Filters and parameters to enable dynamic filtering of the data
 
-**Insights obtained from this project are:**
-1. Analyzing restaurant openings by year, quarter, and month can provide insights into trends in the restaurant industry. For example, you can identify if there are certain seasons or months when new restaurants are more likely to open.
-2. The breakdown of restaurant counts based on average ratings can help you understand the quality of restaurants in the dataset.
-3. By categorizing restaurants into price buckets based on average prices, you can determine the pricing structure of the restaurants. This can be useful for consumers looking for restaurants in specific price ranges.
-4. Understanding the percentage of restaurants with table booking and online delivery services can be valuable for customers looking for these specific features.
-5. Visualizations of cuisines, cities, and ratings can reveal patterns and trends. For example, you might discover which cuisines are most popular in certain cities or how ratings vary across different locations.
-6. The interactive dashboards in Excel, Power BI, and Tableau allow users to explore the data in a user-friendly way. Users can apply filters and drill down into specific aspects of the data to uncover insights tailored to their needs.
-
 Here are the images showcasing the dashboards I have created.
 
 **Excel:**
